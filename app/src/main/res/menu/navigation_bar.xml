@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_white_36dp"
+        android:title="@string/home" />
+
+    <item
+        android:id="@+id/navigation_add"
+        android:icon="@drawable/ic_add_box_red_36dp"
+        android:title="@string/new_card" />
+
+    <item
+        android:id="@+id/navigation_help"
+        android:icon="@drawable/ic_help_white_36dp"
+        android:title="@string/help" />
+</menu>

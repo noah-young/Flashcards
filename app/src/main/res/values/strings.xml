@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Flashcards</string>
+    <string name="new_card">New Card</string>
+    <string name="help">Help</string>
+    <string name="home">Home</string>
+    <string name="add_card_title">NEW CARD</string>
+    <string name="new_card_name_hint">Enter Name of Card</string>
+    <string name="new_card_desc_hint">Enter Card Description</string>
+    <string name="create_button_text">CREATE</string>
+</resources>
